@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="数组问题\题型八_找规律\调和级数前n项和.cpp">
+    <ClCompile Include="数学问题\题型八_约数问题\1_求约数和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
